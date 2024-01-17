@@ -1,1 +1,1 @@
-# core.md
+recommended.md
